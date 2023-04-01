@@ -1,0 +1,10 @@
+Casey,A,A,A,A,A,25
+Lukas,B,B,B,B,B,0
+Simba,X,X,X,X,X,0
+C,A,C,B,B,B,0
+as,B,D,C,C,B,0
+Casey,A,B,B,C,B,0
+s,A,B,B,B,C,0
+Cocoa,D,D,D,D,D,25
+caseys,A,D,C,C,C,0
+c,B,D,C,A,B,0

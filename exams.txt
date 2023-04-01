@@ -1,0 +1,20 @@
+What is the most popular programming language in the world?,A) C++,B) JavaScript,C) C#,D) Python,4
+What does GUI stand for?,A) Guy User Interface,B) Gimme Ur Internet,C) Grand User Interface,D) Graphical Useful Interface,4
+What can an object be?,A) Anything,B) An algorithm,C) A data container,D) A program,1
+Which method can be used to find the length of a string?,A) getSize(),B) length(),C) getLength(),D) len(),2
+Which data type is used to create a variable that should store text?,A) String,B) myString,C) string,D) Txt,1
+Which of these data type cannot be type parameterized?,A) Array,B) List,C) Map,D) Set,1
+Which of the following reference types cannot be generic?,A) Anonymous inner class,B) Interface,C) Inner class,D) All of the mentioned,3
+Which of the following allows us to call generic methods as a normal method?,A) Type Interface,B) Interface,C) Inner class,D) All of the mentioned,4
+What are the common type parameters?,A) T - Type,B) E - Element,C) K- Key,D) All of these,3
+Why are generics used?,A) Generics make the code faster,B) Generics make the code more optimized and readable,C) Generics add stability to your code by making more of your bugs detectable at compile time,D) Generics add stability to your code by making more of your bugs detectable at the runtime,1
+Which of these Exception handlers cannot be type parameterized?,A) Catch,B) Throw,C) Throws,D) All of the mentioned,2
+What is Type Erasure?,A) Replace generic types with objects,B) Replace bounded types (More on these in a later question) with the first bound class,C) Insert the equivalent of casts when retrieving generic objects,D) All of the above,2
+Why should we use Generics?,A) The Java compiler enforces tighter type checks on generic code at compile time,B) Generics support programming types as parameters,C) Generics enable you to implement generic algorithms,D) All of these,1
+Which of these types cannot be used to initiate a generic type?,A) Integer class,B) Float class,C) Primitive Types,D) Collections,1
+Which of these types cannot be used to initiate a generic type?,A) Integer class,B) Float class,C) Primitive Types,D) Collections,2
+Which of the following are the benefits of Java generics?,A) Type-safety,B) Typecasting is not required,C) Compile-Time Checking,D) All of these,4
+Why are generics used?,A) Generics make code faster,B) Generics make code more optimized and readable,C) Generics add stability to your code by making more of your bugs detectable at compile time,D) Generics add stability to your code by making more of your bugs detectable at a runtime,4
+Which of these types cannot be used to initiate a generic type?,A) Integer class,B) Float class,C) Primitive Types,D) Collections,3
+Which of the following reference types cannot be generic?,A) Anonymous inner class,B) Interface,C) Inner class,D) All of the mentioned,2
+Generics do not work with?,A) Set,B) List,C) Tree,D) Array,3
